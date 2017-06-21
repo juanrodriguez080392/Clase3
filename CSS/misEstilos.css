@@ -2,6 +2,11 @@ h1{
 
 	color: #bbdefb;
 	background-color: #e57373;
+	border: 2px #eceff1 dashed;
+	border-left-color: #304ffe;
+	border-right-color: #f50057;
+	border-top-color: #004d40;
+	border-bottom-color:#ffc107; 
 }
 
 #especial{
