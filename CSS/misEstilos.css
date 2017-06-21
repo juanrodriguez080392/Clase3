@@ -1,5 +1,25 @@
 h1{
 
-	color: rgba(0,0,200,0.9);
+	color: #bbdefb;
+	background-color: #e57373;
+}
+
+#especial{
+
+	color: #5e35b1;
 
 }
+
+.verde{
+
+	color: #009688;
+}
+
+
+body{
+
+	background: url(imagenescss/paisaje.jpg);
+	background-repeat: no-repeat;;
+	background-size: cover; 
+}
+
